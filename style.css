@@ -20,7 +20,7 @@ body{
 }
 
 .intro_bg{
-    background-image:url("C:/Users/jhm10/Downloads/rain.png") ;
+    background-image:url("./images/rain.png") ;
     width:100vw;
     height: 55vh;
 }
